@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/17685628/172883108-4ac93b62-fa92-44ac-
 
 
 
-<video src="https://user-images.githubusercontent.com/17685628/172883108-4ac93b62-fa92-44ac-9c51-f5d0706c5aca.mp4"  width="1800" height="1320" muted="muted">
+<video src="https://user-images.githubusercontent.com/17685628/172883108-4ac93b62-fa92-44ac-9c51-f5d0706c5aca.mp4"  width="1800" height="1320" controls="controls">
 </video>
 
 
