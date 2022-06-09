@@ -11,5 +11,5 @@ https://user-images.githubusercontent.com/17685628/172883108-4ac93b62-fa92-44ac-
 </video>
 
 
-<video src="https://user-https://user-images.githubusercontent.com/17685628/172883108-4ac93b62-fa92-44ac-9c51-f5d0706c5aca.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:1320px;">
+<video src="https://user-https://user-images.githubusercontent.com/17685628/172883108-4ac93b62-fa92-44ac-9c51-f5d0706c5aca.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:1320px;">
 </video> 
