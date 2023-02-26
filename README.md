@@ -13,6 +13,6 @@
 
 # Citation
 
-Luqman, H., Wegmann, D., Fior, S. et al. Climate-induced range shifts drive adaptive response via spatio-temporal sieving of alleles. Nature Communications 14, 1080 (2023). https://doi.org/10.1038/s41467-023-36631-9
+Luqman, H., Wegmann, D., Fior, S. & Widmer, A. Climate-induced range shifts drive adaptive response via spatio-temporal sieving of alleles. Nature Communications 14, 1080 (2023). https://doi.org/10.1038/s41467-023-36631-9
 
 ===================================================================
